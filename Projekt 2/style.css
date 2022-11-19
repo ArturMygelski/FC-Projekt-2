@@ -8,6 +8,7 @@ body {
     }  
 .container {
     width: 90%;
+    padding: 14px;
     }
 .navbar {
     width: 100%;
@@ -49,6 +50,10 @@ body {
     height: 100%;
     margin: 0 auto;
     background-image: url("https://langero.com/wp-content/uploads/2019/08/forest-547363_1920.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     display: flex;
     box-sizing: border-box;
     opacity: 50;
@@ -76,7 +81,7 @@ body {
  
 }
 .banner {
-    margin: 0;
+    margin-top: 12vh;
     width: 100%;
     font-weight: 700;
     font-size: 36px;
@@ -86,7 +91,7 @@ body {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
       }
 .banner2 {
-    margin-top: 20px;
+    margin: 20px 0;
     font-weight: 700;
     font-size: 18px;
     color: #FFFFFF;
@@ -174,7 +179,7 @@ p {
     background: #405D78;
     margin: 0 auto;
 }
-.containerBlue container {
+.containerBlue.container {
     padding: 14px 0;
 }
 .bannerWhat {
