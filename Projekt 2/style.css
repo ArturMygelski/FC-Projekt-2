@@ -8,7 +8,6 @@ body {
     }  
 .container {
     width: 90%;
-    padding: 14px; 
     }
 .navbar {
     width: 100%;
@@ -173,6 +172,9 @@ p {
     width: 100%;
     background: #405D78;
     margin: 0 auto;
+}
+.containerBlue container {
+    padding: 14px 0;
 }
 .bannerWhat {
     width: 100%;
