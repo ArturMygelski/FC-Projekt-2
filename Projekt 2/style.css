@@ -243,7 +243,12 @@ footer {
     justify-content: flex-end;
     align-items: center;
     }
-
+i {
+    font-size: 31px;
+    color: white;
+    padding: 18px;
+    
+}
       @media screen and (min-width: 1200px)
       {
         .container {
@@ -347,9 +352,4 @@ footer {
             transform: scale(1.05);
             }
     }
-    i {
-        font-size: 31px;
-        color: white;
-        padding: 18px;
-        
-  }
+   
