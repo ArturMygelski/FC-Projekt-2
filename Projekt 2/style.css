@@ -63,7 +63,7 @@ body {
 .button {
   width: 164px;
   height: 40.74px;
-  margin-top: 10%vh;
+  margin-top: 10vh;
   box-sizing: border-box;
   background: rgba(0, 0, 0, 0.15);
   border: 3px solid #ffffff;
@@ -91,7 +91,7 @@ body {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .banner2 {
-  margin-top: 20px;
+  margin-top: 15vh;
   font-weight: 700;
   font-size: 18px;
   color: #ffffff;
