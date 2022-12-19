@@ -135,6 +135,9 @@ html {
   background-position: 70% 0%;
   background-repeat: no-repeat;
 }
+.ul {
+  list-style: none;
+}
 .person1 {
   width: 100%;
   z-index: 100;
